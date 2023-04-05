@@ -28,7 +28,7 @@ the app creates a priority list based on SPo2 and temperature that helps the doc
 ### Save patients life  
 app sends alert messages to the doctors when the patient's situation is critical.
 
-## Project Diagram:
+## Project Diagram: ![project diagram](https://github.com/RRaushan322/IOT-BASED-HEALTH-MONITRING-DEVICE/blob/main/Screenshot%20(17).png)
 
 ## project image
 
